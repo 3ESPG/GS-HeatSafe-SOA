@@ -1,0 +1,16 @@
+{
+    "estacao": "A701",
+    "metodo": "FREQUENCIA_HISTORICA",
+    "inicio": "2023-01-01",
+    "fim": "2025-12-30",
+    "limiarProbabilidade": 0.2,
+    "diasAvaliados": 1069,
+    "verdadeirosPositivos": 50,
+    "falsosPositivos": 43,
+    "falsosNegativos": 33,
+    "verdadeirosNegativos": 943,
+    "recall": 0.602,
+    "precisao": 0.538,
+    "f1": 0.568,
+    "acuracia": 0.929
+}

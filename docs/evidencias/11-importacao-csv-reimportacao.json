@@ -1,0 +1,9 @@
+{
+    "estacao": "A701",
+    "linhasLidas": 4018,
+    "importadas": 0,
+    "ignoradasJaExistentes": 3996,
+    "ignoradasIncompletas": 22,
+    "primeiraData": null,
+    "ultimaData": null
+}

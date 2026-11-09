@@ -1,0 +1,25 @@
+POST /estacoes/A701/observacoes (dados inválidos) -> HTTP 400
+[
+    {
+        "field": "umidadeMinima",
+        "message": "deve ser menor que ou igual a 100.0"
+    },
+    {
+        "field": "data",
+        "message": "Não é possível registrar observação de uma data futura"
+    },
+    {
+        "field": "temperaturasCoerentes",
+        "message": "A temperatura mínima não pode ser maior que a máxima"
+    }
+]
+
+GET /estacoes/Z999 -> HTTP 404
+{
+    "message": "Estação Z999 não encontrada ou inativa!"
+}
+
+POST observação de dia já cadastrado -> HTTP 409
+{
+    "message": "Já existe observação da estação A701 para o dia 2023-11-15"
+}

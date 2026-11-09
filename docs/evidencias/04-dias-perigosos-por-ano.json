@@ -1,0 +1,101 @@
+[
+    {
+        "ano": 2015,
+        "diasComDados": 365,
+        "diasPerigosos": 21,
+        "percentualDiasPerigosos": 5.8,
+        "maiorIndiceCalor": 34.71,
+        "mediaIndiceCalorMaximo": 25.9,
+        "maiorTemperatura": 36.7
+    },
+    {
+        "ano": 2016,
+        "diasComDados": 363,
+        "diasPerigosos": 13,
+        "percentualDiasPerigosos": 3.6,
+        "maiorIndiceCalor": 34.36,
+        "mediaIndiceCalorMaximo": 25.3,
+        "maiorTemperatura": 36.1
+    },
+    {
+        "ano": 2017,
+        "diasComDados": 361,
+        "diasPerigosos": 4,
+        "percentualDiasPerigosos": 1.1,
+        "maiorIndiceCalor": 33.25,
+        "mediaIndiceCalorMaximo": 25.2,
+        "maiorTemperatura": 34.8
+    },
+    {
+        "ano": 2018,
+        "diasComDados": 365,
+        "diasPerigosos": 7,
+        "percentualDiasPerigosos": 1.9,
+        "maiorIndiceCalor": 33.68,
+        "mediaIndiceCalorMaximo": 25.3,
+        "maiorTemperatura": 34.0
+    },
+    {
+        "ano": 2019,
+        "diasComDados": 365,
+        "diasPerigosos": 22,
+        "percentualDiasPerigosos": 6.0,
+        "maiorIndiceCalor": 34.13,
+        "mediaIndiceCalorMaximo": 26.0,
+        "maiorTemperatura": 35.7
+    },
+    {
+        "ano": 2020,
+        "diasComDados": 366,
+        "diasPerigosos": 11,
+        "percentualDiasPerigosos": 3.0,
+        "maiorIndiceCalor": 35.41,
+        "mediaIndiceCalorMaximo": 25.5,
+        "maiorTemperatura": 37.4
+    },
+    {
+        "ano": 2021,
+        "diasComDados": 365,
+        "diasPerigosos": 4,
+        "percentualDiasPerigosos": 1.1,
+        "maiorIndiceCalor": 33.37,
+        "mediaIndiceCalorMaximo": 25.1,
+        "maiorTemperatura": 35.6
+    },
+    {
+        "ano": 2022,
+        "diasComDados": 365,
+        "diasPerigosos": 4,
+        "percentualDiasPerigosos": 1.1,
+        "maiorIndiceCalor": 34.42,
+        "mediaIndiceCalorMaximo": 25.0,
+        "maiorTemperatura": 34.0
+    },
+    {
+        "ano": 2023,
+        "diasComDados": 352,
+        "diasPerigosos": 27,
+        "percentualDiasPerigosos": 7.7,
+        "maiorIndiceCalor": 35.47,
+        "mediaIndiceCalorMaximo": 26.5,
+        "maiorTemperatura": 37.5
+    },
+    {
+        "ano": 2024,
+        "diasComDados": 365,
+        "diasPerigosos": 36,
+        "percentualDiasPerigosos": 9.9,
+        "maiorIndiceCalor": 34.1,
+        "mediaIndiceCalorMaximo": 26.9,
+        "maiorTemperatura": 36.4
+    },
+    {
+        "ano": 2025,
+        "diasComDados": 364,
+        "diasPerigosos": 20,
+        "percentualDiasPerigosos": 5.5,
+        "maiorIndiceCalor": 34.73,
+        "mediaIndiceCalorMaximo": 25.6,
+        "maiorTemperatura": 37.2
+    }
+]

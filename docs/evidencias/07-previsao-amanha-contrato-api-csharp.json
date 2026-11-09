@@ -1,0 +1,8 @@
+{
+    "estacao": "A701",
+    "data": "2026-01-01",
+    "perigoso": false,
+    "probabilidade": 0.193,
+    "indiceCalorPrevisto": 29.9,
+    "nivelRisco": "ATENCAO"
+}

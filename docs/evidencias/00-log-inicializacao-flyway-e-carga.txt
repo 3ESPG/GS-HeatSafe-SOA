@@ -1,0 +1,7 @@
+2026-11-08T22:48:17.121-03:00  INFO 26063 o.f.core.internal.command.DbMigrate      : Migrating schema `heatsafe` to version "1 - create-table-estacoes"
+2026-11-08T22:48:17.155-03:00  INFO 26063 o.f.core.internal.command.DbMigrate      : Migrating schema `heatsafe` to version "2 - create-table-observacoes-climaticas"
+2026-11-08T22:48:17.183-03:00  INFO 26063 o.f.core.internal.command.DbMigrate      : Migrating schema `heatsafe` to version "3 - create-table-previsoes"
+2026-11-08T22:48:17.217-03:00  INFO 26063 o.f.core.internal.command.DbMigrate      : Migrating schema `heatsafe` to version "4 - insert-estacao-a701"
+2026-11-08T22:48:17.244-03:00  INFO 26063 o.f.core.internal.command.DbMigrate      : Successfully applied 4 migrations to schema `heatsafe`, now at version v4 (execution time 00:00.048s)
+2026-11-08T22:48:19.011-03:00  INFO 26063 b.c.f.h.HeatSafeClimaApiApplication      : Started HeatSafeClimaApiApplication in 3.288 seconds (process running for 3.498)
+2026-11-08T22:48:21.308-03:00  INFO 26063 b.c.f.h.i.config.CarregadorDadosInmet    : Carga concluída: 3996 observações importadas (2015-01-01 a 2025-12-31), 22 linhas incompletas ignoradas.

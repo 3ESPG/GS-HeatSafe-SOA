@@ -1,0 +1,12 @@
+{
+    "id": 1,
+    "codigo": "A701",
+    "nome": "SAO PAULO - MIRANTE",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "latitude": -23.483333,
+    "longitude": -46.616667,
+    "altitude": 792.06,
+    "ativa": true,
+    "totalObservacoes": 3996
+}
